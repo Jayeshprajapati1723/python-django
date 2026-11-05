@@ -1,0 +1,7 @@
+type() : it is a library fnc of python 
+
+>relational or comparision operator 
+ < > <= >= == != 
+
+ >logical operator AND or NOT
+ and ,or ,not (minimum one condition must be given )
