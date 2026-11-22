@@ -15,6 +15,8 @@ s = input("enter a stirng to check which funciton related")
 
 
 
+
+
 s= "jayesh"
 print(s.islower())
 t= "jay123"
